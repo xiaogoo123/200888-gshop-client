@@ -1,4 +1,4 @@
-# shop-client
+# shop-client-p
 
 ## Project setup
 ```
